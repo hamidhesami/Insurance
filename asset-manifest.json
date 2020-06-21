@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Insurance/static/css/main.8f32e343.chunk.css",
+    "main.js": "/Insurance/static/js/main.7a60e38f.chunk.js",
+    "main.js.map": "/Insurance/static/js/main.7a60e38f.chunk.js.map",
+    "runtime-main.js": "/Insurance/static/js/runtime-main.896b58d3.js",
+    "runtime-main.js.map": "/Insurance/static/js/runtime-main.896b58d3.js.map",
+    "static/js/2.bd5a4aec.chunk.js": "/Insurance/static/js/2.bd5a4aec.chunk.js",
+    "static/js/2.bd5a4aec.chunk.js.map": "/Insurance/static/js/2.bd5a4aec.chunk.js.map",
+    "index.html": "/Insurance/index.html",
+    "precache-manifest.9adca857c7337d55ae9045542cad0303.js": "/Insurance/precache-manifest.9adca857c7337d55ae9045542cad0303.js",
+    "service-worker.js": "/Insurance/service-worker.js",
+    "static/css/main.8f32e343.chunk.css.map": "/Insurance/static/css/main.8f32e343.chunk.css.map",
+    "static/js/2.bd5a4aec.chunk.js.LICENSE.txt": "/Insurance/static/js/2.bd5a4aec.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Insurance/static/media/IRANSansWeb_Medium.bb6a9fe5.woff2",
+    "static/media/karshenas.jpg": "/Insurance/static/media/karshenas.71cccd97.jpg",
+    "static/media/materialdesignicons.min.css": "/Insurance/static/media/materialdesignicons-webfont.cdac4fb8.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.896b58d3.js",
+    "static/js/2.bd5a4aec.chunk.js",
+    "static/css/main.8f32e343.chunk.css",
+    "static/js/main.7a60e38f.chunk.js"
+  ]
+}
