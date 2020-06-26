@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Insurance/static/css/main.8f32e343.chunk.css",
-    "main.js": "/Insurance/static/js/main.7a60e38f.chunk.js",
-    "main.js.map": "/Insurance/static/js/main.7a60e38f.chunk.js.map",
-    "runtime-main.js": "/Insurance/static/js/runtime-main.896b58d3.js",
-    "runtime-main.js.map": "/Insurance/static/js/runtime-main.896b58d3.js.map",
-    "static/js/2.bd5a4aec.chunk.js": "/Insurance/static/js/2.bd5a4aec.chunk.js",
-    "static/js/2.bd5a4aec.chunk.js.map": "/Insurance/static/js/2.bd5a4aec.chunk.js.map",
-    "index.html": "/Insurance/index.html",
-    "precache-manifest.9adca857c7337d55ae9045542cad0303.js": "/Insurance/precache-manifest.9adca857c7337d55ae9045542cad0303.js",
-    "service-worker.js": "/Insurance/service-worker.js",
-    "static/css/main.8f32e343.chunk.css.map": "/Insurance/static/css/main.8f32e343.chunk.css.map",
-    "static/js/2.bd5a4aec.chunk.js.LICENSE.txt": "/Insurance/static/js/2.bd5a4aec.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/Insurance/static/media/IRANSansWeb_Medium.bb6a9fe5.woff2",
-    "static/media/karshenas.jpg": "/Insurance/static/media/karshenas.71cccd97.jpg",
-    "static/media/materialdesignicons.min.css": "/Insurance/static/media/materialdesignicons-webfont.cdac4fb8.eot"
+    "main.css": "/refahi/static/css/main.87fa8ab5.chunk.css",
+    "main.js": "/refahi/static/js/main.7a60e38f.chunk.js",
+    "main.js.map": "/refahi/static/js/main.7a60e38f.chunk.js.map",
+    "runtime-main.js": "/refahi/static/js/runtime-main.1597d2dc.js",
+    "runtime-main.js.map": "/refahi/static/js/runtime-main.1597d2dc.js.map",
+    "static/js/2.bd5a4aec.chunk.js": "/refahi/static/js/2.bd5a4aec.chunk.js",
+    "static/js/2.bd5a4aec.chunk.js.map": "/refahi/static/js/2.bd5a4aec.chunk.js.map",
+    "index.html": "/refahi/index.html",
+    "precache-manifest.1b8abfb071106302145d8b18b784c2d9.js": "/refahi/precache-manifest.1b8abfb071106302145d8b18b784c2d9.js",
+    "service-worker.js": "/refahi/service-worker.js",
+    "static/css/main.87fa8ab5.chunk.css.map": "/refahi/static/css/main.87fa8ab5.chunk.css.map",
+    "static/js/2.bd5a4aec.chunk.js.LICENSE.txt": "/refahi/static/js/2.bd5a4aec.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/refahi/static/media/IRANSansWeb_Medium.bb6a9fe5.woff2",
+    "static/media/karshenas.jpg": "/refahi/static/media/karshenas.71cccd97.jpg",
+    "static/media/materialdesignicons.min.css": "/refahi/static/media/materialdesignicons-webfont.cdac4fb8.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.896b58d3.js",
+    "static/js/runtime-main.1597d2dc.js",
     "static/js/2.bd5a4aec.chunk.js",
-    "static/css/main.8f32e343.chunk.css",
+    "static/css/main.87fa8ab5.chunk.css",
     "static/js/main.7a60e38f.chunk.js"
   ]
 }
